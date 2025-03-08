@@ -5,11 +5,6 @@ Description:
 ------------
 Anu is a voice-interactive AI assistant that listens to user queries, processes them using the Llama 3 model, and responds with speech. It integrates speech recognition, natural language processing, and text-to-speech for a seamless conversation experience.
 
-Requirements:
--------------
-Ensure you have the required dependencies installed. You can install them using:
-
-
 Usage:
 ------
 1. Run the script:
